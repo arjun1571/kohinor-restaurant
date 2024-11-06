@@ -1,0 +1,12 @@
+
+.app-container {
+  background-color: #fb3f35; 
+  background-image: url('./assets/bannerBackground.png');
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: overlay; 
+}
+
+.navbar-bg {
+  background-color: #fb3f35;
+}
